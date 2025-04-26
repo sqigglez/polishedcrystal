@@ -1,4 +1,4 @@
-	db  75, 123,  67, 105,  95,  85 ; 550 BST
+	db  75,  123,  67,  105,  95,  85 ; 550 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, FIGHTING ; type

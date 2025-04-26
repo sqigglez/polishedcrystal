@@ -1,4 +1,4 @@
-	db  40,  30,  50, 100,  55,  55 ; 330 BST
+	db  40,  30,  50,  100,  55,  55 ; 330 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, GRASS ; type

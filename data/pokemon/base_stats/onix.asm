@@ -1,4 +1,4 @@
-	db  35,  80, 160,  70,  30,  45 ; 420 BST
+	db  35,  80,  160,  70,  30,  45 ; 420 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ROCK, GROUND ; type

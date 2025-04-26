@@ -1,4 +1,4 @@
-	db 106, 130,  90,  90, 110, 154 ; 680 BST
+	db  106,  130,  90,  90,  110,  154 ; 680 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, FLYING ; type

@@ -1,4 +1,4 @@
-	db  65,  60, 110,  65, 130,  95 ; 525 BST
+	db  65,  60,  110,  65,  130,  95 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, ICE ; type

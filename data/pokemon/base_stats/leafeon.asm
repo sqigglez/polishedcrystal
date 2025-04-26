@@ -1,4 +1,4 @@
-	db  65, 110, 130,  95,  60,  65 ; 525 BST
+	db  65,  110,  130,  95,  60,  65 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, GRASS ; type

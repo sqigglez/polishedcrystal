@@ -1,4 +1,4 @@
-	db 106, 110, 100, 130, 134, 100 ; 680 BST
+	db  106,  110,  100,  130,  134,  100 ; 680 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, STEEL ; type
@@ -7,7 +7,7 @@
 	db ALWAYS_ITEM_2, PETAYA_BERRY ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 
-	abilities_for MEWTWO, PRESSURE, INSOMNIA, UNNERVE
+	abilities_for MEWTWO_ARMORED, MEWTWO, PRESSURE, INSOMNIA, UNNERVE
 	; assumes identical abilities to non-armored
 	db GROWTH_SLOW ; growth rate
 	dn EGG_NONE, EGG_NONE ; egg groups

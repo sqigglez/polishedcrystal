@@ -1,11 +1,11 @@
-	db  80, 102,  65,  88,  65,  80 ; 480 BST
+	db  80,  102,  65,  88,  65,  80 ; 480 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, WATER ; type
 	db 60 ; catch rate
 	db 180 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
-	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio
+	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 
 	abilities_for SEAKING, SWIFT_SWIM, WATER_VEIL, LIGHTNING_ROD
 	db GROWTH_MEDIUM_FAST ; growth rate

@@ -1,4 +1,4 @@
-	db  70,  60,  40,  95, 120, 100 ; 485 BST
+	db  70,  60,  40,  95,  120,  100 ; 485 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, PSYCHIC ; type

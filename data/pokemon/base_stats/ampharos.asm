@@ -1,4 +1,4 @@
-	db  95,  75,  90,  65, 125,  95 ; 545 BST
+	db  95,  75,  90,  65,  125,  95 ; 545 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, DRAGON ; type

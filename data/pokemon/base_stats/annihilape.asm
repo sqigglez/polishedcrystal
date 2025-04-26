@@ -1,4 +1,4 @@
-	db 110, 115,  80,  90,  50,  90 ; 535 BST
+	db  110,  115,  80,  90,  50,  90 ; 535 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIGHTING, GHOST ; type

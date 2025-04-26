@@ -1,4 +1,4 @@
-	db  95,  95,  85,  55, 125,  75 ; 530 BST
+	db  95,  95,  85,  55,  125,  75 ; 530 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, PSYCHIC ; type

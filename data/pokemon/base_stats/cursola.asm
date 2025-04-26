@@ -1,4 +1,4 @@
-	db  60,  95,  50,  30, 145, 130 ; 510 BST
+	db  60,  95,  50,  30,  145,  130 ; 510 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GHOST, ROCK ; type

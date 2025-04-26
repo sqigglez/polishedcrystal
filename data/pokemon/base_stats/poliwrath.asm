@@ -1,4 +1,4 @@
-	db  90,  95, 100,  70,  70,  90 ; 515 BST
+	db  90,  95,  100,  70,  70,  90 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, FIGHTING ; type

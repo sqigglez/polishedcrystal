@@ -1,4 +1,4 @@
-	db 120, 140, 130,  40,  55,  60 ; 545 BST
+	db  120,  140,  130,  40,  55,  60 ; 545 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db STEEL, ROCK ; type

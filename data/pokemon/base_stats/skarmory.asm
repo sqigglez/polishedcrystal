@@ -1,4 +1,4 @@
-	db  85,  80, 140,  70,  40,  70 ; 485 BST
+	db  85,  80,  140,  70,  40,  70 ; 485 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db STEEL, FLYING ; type

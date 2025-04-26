@@ -1,4 +1,4 @@
-	db  86,  76,  86,  95, 116,  56 ; 515 BST
+	db  86,  76,  86,  95,  116,  56 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, DRAGON ; type

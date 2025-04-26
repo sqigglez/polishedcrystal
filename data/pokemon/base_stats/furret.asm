@@ -1,4 +1,4 @@
-	db  85,  86,  64, 108,  45,  55 ; 443 BST
+	db  85,  86,  64,  108,  45,  55 ; 443 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type

@@ -1,4 +1,4 @@
-	db  78,  28,  48, 108,  28,  48 ; 338 BST
+	db  78,  28,  48,  108,  28,  48 ; 338 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type

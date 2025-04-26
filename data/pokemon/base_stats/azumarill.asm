@@ -1,4 +1,4 @@
-	db 100,  50,  80,  50,  90,  80 ; 450 BST
+	db  100,  50,  80,  50,  90,  80 ; 450 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, FAIRY ; type

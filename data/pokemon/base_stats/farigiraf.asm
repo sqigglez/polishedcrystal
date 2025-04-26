@@ -1,4 +1,4 @@
-	db 120,  90,  70,  70, 120,  70 ; 540 BST
+	db  120,  90,  70,  70,  120,  70 ; 540 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, DARK ; type

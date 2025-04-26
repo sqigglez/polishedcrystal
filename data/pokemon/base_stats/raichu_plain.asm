@@ -1,4 +1,4 @@
-	db  60, 100,  55, 121, 100,  80 ; 516 BST
+	db  60,  100,  55,  121,  100,  80 ; 516 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type

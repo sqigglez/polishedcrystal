@@ -1,4 +1,4 @@
-	db  45,  20,  50,  50,  60, 120 ; 345 BST
+	db  45,  20,  50,  50,  60,  120 ; 345 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, FLYING ; type

@@ -1,4 +1,4 @@
-	db  50,  63,  37, 100,  65,  55 ; 370 BST
+	db  50,  63,  37,  100,  65,  55 ; 370 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type

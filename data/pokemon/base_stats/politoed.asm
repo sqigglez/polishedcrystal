@@ -1,4 +1,4 @@
-	db  90,  75,  80,  80,  90, 100 ; 515 BST
+	db  90,  75,  80,  80,  90,  100 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, GRASS ; type

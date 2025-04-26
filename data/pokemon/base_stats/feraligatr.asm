@@ -1,4 +1,4 @@
-	db  85, 105, 100,  78,  79,  83 ; 530 BST
+	db  85,  105,  100,  78,  79,  83 ; 530 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, DARK ; type

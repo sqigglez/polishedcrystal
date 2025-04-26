@@ -1,4 +1,4 @@
-	db  95, 100, 100,  30, 100,  75 ; 500 BST
+	db  95,  100,  100,  30,  100,  75 ; 500 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, PSYCHIC ; type

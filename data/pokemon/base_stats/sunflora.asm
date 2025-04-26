@@ -1,4 +1,4 @@
-	db  75,  55,  75,  85, 105,  85 ; 480 BST
+	db  75,  55,  75,  85,  105,  85 ; 480 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, FIRE ; type

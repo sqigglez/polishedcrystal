@@ -1,4 +1,4 @@
-	db  65, 100, 100,  85,  75,  55 ; 480 BST
+	db  65,  100,  100,  85,  75,  55 ; 480 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, POISON ; type

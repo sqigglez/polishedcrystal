@@ -1,4 +1,4 @@
-	db  60,  95,  50, 121, 105,  85 ; 516 BST
+	db  60,  95,  50,  121,  105,  85 ; 516 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, PSYCHIC ; type

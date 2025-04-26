@@ -1,4 +1,4 @@
-	db  95,  55,  70, 110,  55,  95 ; 480 BST
+	db  95,  55,  70,  110,  55,  95 ; 480 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, FLYING ; type

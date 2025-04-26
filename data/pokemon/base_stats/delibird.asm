@@ -1,4 +1,4 @@
-	db  55,  85,  55, 105,  95,  55 ; 450 BST
+	db  55,  85,  55,  105,  95,  55 ; 450 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, FLYING ; type

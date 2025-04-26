@@ -1,4 +1,4 @@
-	db  30,  35,  30,  80, 100,  35 ; 310 BST
+	db  30,  35,  30,  80,  100,  35 ; 310 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GHOST, POISON ; type

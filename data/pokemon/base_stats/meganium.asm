@@ -1,4 +1,4 @@
-	db  80,  82, 100,  80,  83, 100 ; 525 BST
+	db  80,  82,  100,  80,  83,  100 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, FAIRY ; type
