@@ -1,4 +1,4 @@
-	db  125,  58,  58,  67,  86,  86 ; 480 BST
+	db  130,  60,  64,  75,  98,  98 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, ELECTRIC ; type

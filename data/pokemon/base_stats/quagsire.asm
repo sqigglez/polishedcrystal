@@ -1,4 +1,4 @@
-	db  95,  95,  95,  35,  65,  65 ; 450 BST
+	db  110,  110,  110,  45,  70,  70 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, GROUND ; type

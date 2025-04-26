@@ -1,4 +1,4 @@
-	db  106,  90,  130,  110,  90,  154 ; 680 BST
+	db  105,  90,  130,  110,  90,  155 ; 680 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, FLYING ; type

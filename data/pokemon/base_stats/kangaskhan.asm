@@ -1,4 +1,4 @@
-	db  105,  95,  80,  90,  40,  80 ; 490 BST
+	db  110,  100,  85,  95,  50,  85 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type

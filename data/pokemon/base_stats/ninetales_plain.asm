@@ -1,4 +1,4 @@
-	db  73,  76,  75,  100,  81,  100 ; 505 BST
+	db  75,  80,  75,  100,  85,  100 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, GHOST ; type

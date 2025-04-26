@@ -1,4 +1,4 @@
-	db  106,  110,  100,  130,  134,  100 ; 680 BST
+	db  105,  110,  100,  130,  135,  100 ; 680 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, STEEL ; type

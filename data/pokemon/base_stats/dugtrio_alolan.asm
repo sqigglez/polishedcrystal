@@ -1,4 +1,4 @@
-	db  35,  100,  60,  110,  50,  70 ; 425 BST
+	db  60,  130,  70,  120,  55,  80 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GROUND, STEEL ; type

@@ -1,4 +1,4 @@
-	db  190,  33,  58,  33,  33,  58 ; 405 BST
+	db  200,  35,  60,  35,  35,  60 ; 425 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, PSYCHIC ; type

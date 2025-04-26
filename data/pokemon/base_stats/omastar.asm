@@ -1,4 +1,4 @@
-	db  70,  60,  125,  55,  115,  70 ; 495 BST
+	db  70,  60,  130,  60,  120,  75 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ROCK, WATER ; type

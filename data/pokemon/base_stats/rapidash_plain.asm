@@ -1,4 +1,4 @@
-	db  65,  100,  70,  105,  80,  80 ; 500 BST
+	db  70,  110,  75,  110,  80,  80 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, FAIRY ; type

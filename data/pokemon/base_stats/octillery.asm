@@ -1,4 +1,4 @@
-	db  75,  105,  75,  45,  105,  75 ; 480 BST
+	db  80,  110,  80,  55,  110,  80 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, FIRE ; type

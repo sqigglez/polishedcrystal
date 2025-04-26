@@ -1,4 +1,4 @@
-	db  50,  95,  95,  70,  35,  110 ; 455 BST
+	db  65,  100,  100,  85,  35,  115 ; 500 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIGHTING, FIGHTING ; type

@@ -1,4 +1,4 @@
-	db  95,  75,  120,  30,  100,  80 ; 500 BST
+	db  100,  75,  125,  30,  105,  80 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, PSYCHIC ; type

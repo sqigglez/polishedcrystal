@@ -1,4 +1,4 @@
-	db  90,  120,  75,  45,  60,  60 ; 450 BST
+	db  100,  130,  85,  55,  70,  75 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FAIRY, FAIRY ; type

@@ -1,4 +1,4 @@
-	db  55,  95,  50,  85,  35,  110 ; 430 BST
+	db  65,  110,  65,  95,  50,  115 ; 500 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, FIGHTING ; type

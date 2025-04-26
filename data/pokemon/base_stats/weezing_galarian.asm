@@ -1,4 +1,4 @@
-	db  65,  90,  120,  60,  85,  70 ; 490 BST
+	db  70,  90,  125,  65,  90,  75 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, FAIRY ; type

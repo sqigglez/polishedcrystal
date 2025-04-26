@@ -1,4 +1,4 @@
-	db  100,  50,  50,  70,  96,  96 ; 462 BST
+	db  110,  60,  60,  75,  105,  105 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GHOST, FLYING ; type

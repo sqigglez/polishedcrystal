@@ -1,4 +1,4 @@
-	db  61,  84,  65,  70,  70,  70 ; 420 BST
+	db  60,  85,  65,  70,  70,  70 ; 420 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db DRAGON, DRAGON ; type

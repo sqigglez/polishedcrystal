@@ -1,5 +1,5 @@
 
-	db  60,  45,  50,  80,  110,  110 ; 455 BST
+	db  70,  50,  60,  90,  125,  120 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, PSYCHIC ; type

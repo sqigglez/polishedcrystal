@@ -1,4 +1,4 @@
-	db  73,  100,  62,  85,  85,  65 ; 470 BST
+	db  75,  100,  65,  85,  85,  65 ; 475 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, PSYCHIC ; type

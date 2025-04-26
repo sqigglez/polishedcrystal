@@ -1,4 +1,4 @@
-	db  78,  84,  78,  100,  109,  85 ; 534 BST
+	db  80,  85,  80,  100,  110,  85 ; 540 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, GROUND ; type

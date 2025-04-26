@@ -3,7 +3,7 @@
 
 	db STEEL, GROUND ; type
 	db 25 ; catch rate
-	db 196 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, METAL_COAT ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

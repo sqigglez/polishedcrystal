@@ -1,4 +1,4 @@
-	db  78,  94,  78,  100,  99,  85 ; 534 BST
+	db  80,  95,  80,  100,  100,  85 ; 540 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, DRAGON ; type

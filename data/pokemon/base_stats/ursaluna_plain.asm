@@ -1,4 +1,4 @@
-	db  130,  140,  105,  50,  45,  80 ; 550 BST
+	db  130,  140,  105,  50,  50,  80 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GROUND, NORMAL ; type

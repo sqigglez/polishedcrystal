@@ -1,4 +1,4 @@
-	db  105,  125,  52,  71,  105,  52 ; 510 BST
+	db  105,  125,  60,  70,  105,  60 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db DARK, FLYING ; type

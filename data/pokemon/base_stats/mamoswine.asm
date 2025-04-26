@@ -1,4 +1,4 @@
-	db  110,  130,  80,  80,  70,  60 ; 530 BST
+	db  110,  130,  85,  80,  70,  60 ; 535 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, GROUND ; type

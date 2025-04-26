@@ -1,4 +1,4 @@
-	db  40,  40,  30,  55,  20,  80 ; 265 BST
+	db  40,  45,  30,  55,  20,  80 ; 270 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, FLYING ; type

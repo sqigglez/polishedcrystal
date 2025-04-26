@@ -1,4 +1,4 @@
-	db  60,  50,  135,  30,  115,  115 ; 505 BST
+	db  65,  60,  135,  30,  120,  115 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, ROCK ; type

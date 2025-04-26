@@ -1,4 +1,4 @@
-	db  40,  45,  35,  55,  30,  40 ; 245 BST
+	db  40,  45,  35,  58,  32,  40 ; 250 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, FLYING ; type
