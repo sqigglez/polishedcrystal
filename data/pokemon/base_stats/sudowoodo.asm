@@ -1,7 +1,7 @@
 	db  85,  125,  140,  35,  35,  95 ; 515 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db ROCK, ROCK ; type
+	db ROCK, FIGHTING ; type
 	db 65 ; catch rate
 	db 200 ; base exp
 	db NO_ITEM, NO_ITEM ; held items

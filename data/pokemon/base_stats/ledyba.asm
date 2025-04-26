@@ -1,13 +1,13 @@
 	db  40,  45,  30,  55,  20,  80 ; 270 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db BUG, FLYING ; type
+	db BUG, FIGHTING ; type
 	db 255 ; catch rate
 	db 54 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 
-	abilities_for LEDYBA, SWARM, EARLY_BIRD, RATTLED
+	abilities_for LEDYBA, RATTLED, EARLY_BIRD, SWARM
 	db GROWTH_FAST ; growth rate
 	dn EGG_BUG, EGG_BUG ; egg groups
 

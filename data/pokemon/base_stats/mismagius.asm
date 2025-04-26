@@ -1,4 +1,4 @@
-	db  65,  60,  60,  110,  110,  110 ; 515 BST
+	db  65,  60,  60,  115,  115,  115 ; 530 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GHOST, FAIRY ; type

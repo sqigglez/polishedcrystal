@@ -1,7 +1,7 @@
 	db  125,  20,  60,  140,  20,  60 ; 425 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, FAIRY ; type
 	db 45 ; catch rate
 	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items

@@ -1,7 +1,7 @@
 	db  45,  50,  65,  45,  50,  65 ; 320 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db GRASS, GRASS ; type
+	db GRASS, FAIRY ; type
 	db 45 ; catch rate
 	db 64 ; base exp
 	db NO_ITEM, NO_ITEM ; held items

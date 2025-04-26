@@ -7,7 +7,7 @@
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 
-	abilities_for LEDIAN, SWARM, EARLY_BIRD, IRON_FIST
+	abilities_for LEDIAN, IRON_FIST, EARLY_BIRD, SWARM
 	db GROWTH_FAST ; growth rate
 	dn EGG_BUG, EGG_BUG ; egg groups
 

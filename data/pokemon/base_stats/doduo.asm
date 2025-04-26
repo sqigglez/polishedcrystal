@@ -1,7 +1,7 @@
 	db  35,  85,  45,  75,  35,  35 ; 310 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db NORMAL, FLYING ; type
+	db GROUND, FLYING ; type
 	db 190 ; catch rate
 	db 96 ; base exp
 	db NO_ITEM, SHARP_BEAK ; held items
