@@ -1,4 +1,4 @@
-	db  150,  210,  154,  230,  132,  154 ; 1030 BST
+	db  150,  200,  150,  220,  130,  150 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, DARK ; type

@@ -1,4 +1,4 @@
-	db  140,  230,  110,  250,  100,  200 ; 1030 BST
+	db  140,  220,  110,  240,  100,  190 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, POISON ; type

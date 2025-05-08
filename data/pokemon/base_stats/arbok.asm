@@ -1,4 +1,4 @@
-	db  150,  220,  160,  180,  140,  180 ; 1030 BST
+	db  150,  215,  160,  170,  135,  170 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db DARK, POISON ; type
