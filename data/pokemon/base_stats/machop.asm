@@ -3,7 +3,7 @@
 
 	db FIGHTING, FIGHTING ; type
 	db 180 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, FOCUS_BAND ; held items
 	dn GENDER_F25, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

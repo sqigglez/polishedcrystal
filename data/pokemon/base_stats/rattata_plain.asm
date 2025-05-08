@@ -3,7 +3,7 @@
 
 	db NORMAL, NORMAL ; type
 	db 255 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, LANSAT_BERRY ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

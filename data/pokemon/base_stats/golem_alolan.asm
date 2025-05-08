@@ -3,7 +3,7 @@
 
 	db ROCK, ELECTRIC ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db NO_ITEM, EVERSTONE ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

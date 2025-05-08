@@ -3,7 +3,7 @@
 
 	db GRASS, PSYCHIC ; type
 	db 90 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, MARANGABERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -3,7 +3,7 @@
 
 	db ROCK, WATER ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F12_5, HATCH_SLOW ; gender ratio, step cycles to hatch
 

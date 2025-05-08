@@ -3,7 +3,7 @@
 
 	db NORMAL, NORMAL ; type
 	db 25 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db ALWAYS_ITEM_2, LEFTOVERS ; held items
 	dn GENDER_F12_5, HATCH_SLOWEST ; gender ratio, step cycles to hatch
 

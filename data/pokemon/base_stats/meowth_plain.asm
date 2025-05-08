@@ -3,7 +3,7 @@
 
 	db NORMAL, NORMAL ; type
 	db 255 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, AMULET_COIN ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

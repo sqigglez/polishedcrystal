@@ -3,7 +3,7 @@
 
 	db NORMAL, NORMAL ; type
 	db 30 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db NO_ITEM, DUBIOUS_DISC ; held items
 	dn GENDER_UNKNOWN, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

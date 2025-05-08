@@ -3,7 +3,7 @@
 
 	db ROCK, GROUND ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 160 ; base exp
 	db LAGGING_TAIL, HARD_STONE ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

@@ -3,7 +3,7 @@
 
 	db GROUND, NORMAL ; type
 	db 20 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
 	dn GENDER_F0, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -3,7 +3,7 @@
 
 	db ICE, PSYCHIC ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db RAWST_BERRY, RAWST_BERRY ; held items
 	dn GENDER_F100, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

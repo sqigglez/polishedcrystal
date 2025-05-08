@@ -3,7 +3,7 @@
 
 	db ELECTRIC, FIGHTING ; type
 	db 30 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db PERSIM_BERRY, ELECTIRIZER ; held items
 	dn GENDER_F25, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

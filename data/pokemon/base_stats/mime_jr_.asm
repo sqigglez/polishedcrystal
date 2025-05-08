@@ -3,7 +3,7 @@
 
 	db PSYCHIC, FAIRY ; type
 	db 145 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, LEPPA_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

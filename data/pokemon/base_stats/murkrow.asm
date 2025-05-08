@@ -3,7 +3,7 @@
 
 	db DARK, FLYING ; type
 	db 30 ; catch rate
-	db 255 ; base exp
+	db 160 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

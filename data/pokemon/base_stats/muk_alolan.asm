@@ -3,7 +3,7 @@
 
 	db POISON, DARK ; type
 	db 75 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db BLACK_SLUDGE, NUGGET ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

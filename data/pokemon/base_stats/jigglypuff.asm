@@ -3,7 +3,7 @@
 
 	db NORMAL, FAIRY ; type
 	db 170 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db ORAN_BERRY, ORAN_BERRY ; held items
 	dn GENDER_F75, HATCH_FASTER ; gender ratio, step cycles to hatch
 

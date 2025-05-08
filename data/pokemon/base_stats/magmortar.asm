@@ -3,7 +3,7 @@
 
 	db FIRE, FIGHTING ; type
 	db 30 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db ASPEAR_BERRY, MAGMARIZER ; held items
 	dn GENDER_F25, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

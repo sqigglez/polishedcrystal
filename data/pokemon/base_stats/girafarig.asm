@@ -3,7 +3,7 @@
 
 	db PSYCHIC, DARK ; type
 	db 60 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db NO_ITEM, PERSIM_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

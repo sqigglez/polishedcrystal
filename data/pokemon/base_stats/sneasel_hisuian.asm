@@ -3,7 +3,7 @@
 
 	db POISON, FIGHTING ; type
 	db 60 ; catch rate
-	db 255 ; base exp
+	db 160 ; base exp
 	db GRIP_CLAW, QUICK_CLAW ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

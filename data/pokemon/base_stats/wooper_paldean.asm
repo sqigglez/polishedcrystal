@@ -3,7 +3,7 @@
 
 	db POISON, GROUND ; type
 	db 255 ; catch rate
-	db 140 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, CHESTO_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

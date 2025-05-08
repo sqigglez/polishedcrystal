@@ -3,7 +3,7 @@
 
 	db WATER, WATER ; type
 	db 225 ; catch rate
-	db 255 ; base exp
+	db 125 ; base exp
 	db STARDUST, STAR_PIECE ; held items
 	dn GENDER_UNKNOWN, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

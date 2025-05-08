@@ -3,7 +3,7 @@
 
 	db BUG, DRAGON ; type
 	db 30 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db NO_ITEM, WIDE_LENS ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -4,7 +4,7 @@
 
 	db BUG, PSYCHIC ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db SHED_SHELL, SILVERPOWDER ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

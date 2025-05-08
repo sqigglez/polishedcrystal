@@ -3,7 +3,7 @@
 
 	db GHOST, GHOST ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db NO_ITEM, SPELL_TAG ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

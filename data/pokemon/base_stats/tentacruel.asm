@@ -3,7 +3,7 @@
 
 	db WATER, POISON ; type
 	db 60 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db NO_ITEM, POISON_BARB ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

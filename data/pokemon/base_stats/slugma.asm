@@ -3,7 +3,7 @@
 
 	db FIRE, FIRE ; type
 	db 190 ; catch rate
-	db 200 ; base exp
+	db 125 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

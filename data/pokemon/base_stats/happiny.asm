@@ -4,7 +4,7 @@
 
 	db NORMAL, NORMAL ; type
 	db 130 ; catch rate
-	db 146 ; base exp
+	db 125 ; base exp
 	db HARD_STONE, LUCKY_EGG ; held items
 	dn GENDER_F100, HATCH_SLOWEST ; gender ratio, step cycles to hatch
 

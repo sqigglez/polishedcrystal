@@ -3,7 +3,7 @@
 
 	db WATER, ICE ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 225 ; base exp
 	db ALWAYS_ITEM_2, MYSTIC_WATER ; held items
 	dn GENDER_F50, HATCH_SLOWEST ; gender ratio, step cycles to hatch
 

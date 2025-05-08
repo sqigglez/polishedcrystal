@@ -3,7 +3,7 @@
 
 	db PSYCHIC, FAIRY ; type
 	db 45 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db PERSIM_BERRY, PERSIM_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

@@ -3,7 +3,7 @@
 
 	db FIRE, GHOST ; type
 	db 75 ; catch rate
-	db 255 ; base exp
+	db 200 ; base exp
 	db ALWAYS_ITEM_2, ASPEAR_BERRY ; held items
 	dn GENDER_F75, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 
