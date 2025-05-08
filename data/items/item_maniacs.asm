@@ -1,5 +1,5 @@
 GourmetManiacItemRewards:
-	dbw ORAN_BERRY,   20
+	dbw ORAN_BERRY,   2000
 	dbw SITRUS_BERRY, 20
 	dbw PECHA_BERRY,  20
 	dbw RAWST_BERRY,  20

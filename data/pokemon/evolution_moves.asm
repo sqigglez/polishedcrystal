@@ -39,7 +39,7 @@ EvolutionMoves::
 	db NO_MOVE      ; VULPIX
 	db NASTY_PLOT   ; NINETALES
 	db NO_MOVE      ; JIGGLYPUFF
-	db NO_MOVE      ; WIGGLYTUFF
+	db MOONBLAST    ; WIGGLYTUFF
 	db NO_MOVE      ; ZUBAT
 	db NO_MOVE      ; GOLBAT
 	db NO_MOVE      ; ODDISH
@@ -48,7 +48,7 @@ EvolutionMoves::
 	db NO_MOVE      ; PARAS
 	db SHADOW_CLAW  ; PARASECT
 	db NO_MOVE      ; VENONAT
-	db GUST         ; VENOMOTH
+	db AIR_SLASH    ; VENOMOTH
 	db NO_MOVE      ; DIGLETT
 	db TRI_ATTACK   ; DUGTRIO
 	db NO_MOVE      ; MEOWTH
