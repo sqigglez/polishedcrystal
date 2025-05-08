@@ -1,5 +1,5 @@
 	; If you change the BST, update data/pokemon/base_exp_exceptions.asm
-	db  250,  5,  5,  50,  35,  105 ; 450 BST
+	db  255,  10,  30,  110,  90,  215 ; 710 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type

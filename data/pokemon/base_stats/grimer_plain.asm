@@ -1,9 +1,9 @@
-	db  80,  80,  50,  25,  40,  50 ; 325 BST
+	db  160,  160,  100,  50,  80,  100 ; 650 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, POISON ; type
 	db 190 ; catch rate
-	db 90 ; base exp
+	db 255 ; base exp
 	db BLACK_SLUDGE, NUGGET ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

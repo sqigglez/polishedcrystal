@@ -1,9 +1,9 @@
-	db  90,  85,  85,  95,  125,  100 ; 580 BST
+	db  180,  170,  170,  190,  250,  200 ; 1160 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, FLYING ; type
 	db 3 ; catch rate
-	db 215 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

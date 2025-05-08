@@ -1,9 +1,9 @@
-	db  105,  110,  100,  130,  135,  100 ; 680 BST
+	db  210,  220,  200,  255,  255,  200 ; 1340 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, STEEL ; type
 	db 3 ; catch rate
-	db 220 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, PETAYA_BERRY ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

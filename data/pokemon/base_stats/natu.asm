@@ -1,9 +1,9 @@
-	db  40,  50,  45,  70,  70,  45 ; 320 BST
+	db  80,  100,  90,  140,  140,  90 ; 640 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, FLYING ; type
 	db 190 ; catch rate
-	db 73 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

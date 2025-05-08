@@ -1,9 +1,9 @@
-	db  65,  65,  45,  95,  75,  45 ; 390 BST
+	db  130,  130,  90,  190,  150,  90 ; 780 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, FLYING ; type
 	db 75 ; catch rate
-	db 147 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, WIDE_LENS ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

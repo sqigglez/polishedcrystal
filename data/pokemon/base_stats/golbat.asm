@@ -1,9 +1,9 @@
-	db  75,  80,  70,  90,  65,  75 ; 455 BST
+	db  150,  160,  140,  180,  130,  150 ; 910 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, FLYING ; type
 	db 90 ; catch rate
-	db 171 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

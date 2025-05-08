@@ -1,9 +1,9 @@
-	db  45,  25,  50,  35,  25,  25 ; 205 BST
+	db  90,  50,  100,  70,  50,  50 ; 410 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, POISON ; type
 	db 120 ; catch rate
-	db 71 ; base exp
+	db 136 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

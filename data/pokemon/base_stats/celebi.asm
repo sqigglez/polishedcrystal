@@ -1,9 +1,9 @@
-	db  100,  100,  100,  100,  100,  100 ; 600 BST
+	db  200,  200,  200,  200,  200,  200 ; 1200 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, FAIRY ; type
 	db 45 ; catch rate
-	db 64 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

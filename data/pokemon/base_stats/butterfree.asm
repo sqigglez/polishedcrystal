@@ -1,10 +1,10 @@
 
-	db  70,  50,  60,  90,  125,  120 ; 515 BST
+	db  140,  100,  120,  180,  250,  240 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, PSYCHIC ; type
 	db 45 ; catch rate
-	db 185 ; base exp
+	db 255 ; base exp
 	db SHED_SHELL, SILVERPOWDER ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

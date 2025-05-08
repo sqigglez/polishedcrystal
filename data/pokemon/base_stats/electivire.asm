@@ -1,9 +1,9 @@
-	db  75,  125,  70,  105,  95,  85 ; 555 BST
+	db  150,  245,  135,  210,  190,  170 ; 1100 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, FIGHTING ; type
 	db 30 ; catch rate
-	db 199 ; base exp
+	db 255 ; base exp
 	db PERSIM_BERRY, ELECTIRIZER ; held items
 	dn GENDER_F25, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

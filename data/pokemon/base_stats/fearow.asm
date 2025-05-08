@@ -1,9 +1,9 @@
-	db  75,  108,  70,  112,  75,  75 ; 515 BST
+	db  150,  215,  140,  225,  150,  140 ; 1020 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, FLYING ; type
 	db 90 ; catch rate
-	db 169 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, SHARP_BEAK ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

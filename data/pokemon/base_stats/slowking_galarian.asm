@@ -1,9 +1,9 @@
-	db  95,  65,  80,  30,  110,  120 ; 500 BST
+	db  190,  140,  170,  60,  230,  240 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, PSYCHIC ; type
 	db 70 ; catch rate
-	db 164 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, KINGS_ROCK ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

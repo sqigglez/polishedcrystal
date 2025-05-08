@@ -1,9 +1,9 @@
-	db  90,  90,  85,  100,  125,  90 ; 580 BST
+	db  180,  180,  170,  200,  250,  180 ; 1160 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, FLYING ; type
 	db 3 ; catch rate
-	db 216 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

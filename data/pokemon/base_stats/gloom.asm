@@ -1,9 +1,9 @@
-	db  60,  65,  70,  40,  85,  75 ; 395 BST
+	db  120,  130,  140,  80,  170,  150 ; 790 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, POISON ; type
 	db 120 ; catch rate
-	db 132 ; base exp
+	db 255 ; base exp
 	db SILVER_LEAF, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

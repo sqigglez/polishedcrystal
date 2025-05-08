@@ -1,9 +1,9 @@
-	db  80,  85,  105,  80,  85,  105 ; 540 BST
+	db  160,  170,  210,  160,  170,  210 ; 1080 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, FAIRY ; type
 	db 45 ; catch rate
-	db 208 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F12_5, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

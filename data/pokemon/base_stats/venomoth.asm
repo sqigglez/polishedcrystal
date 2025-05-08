@@ -1,9 +1,9 @@
-	db  80,  70,  65,  100,  120,  80 ; 515 BST
+	db  160,  140,  130,  200,  240,  160 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, POISON ; type
 	db 75 ; catch rate
-	db 138 ; base exp
+	db 255 ; base exp
 	db SHED_SHELL, SILVERPOWDER ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

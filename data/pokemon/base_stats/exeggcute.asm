@@ -1,9 +1,9 @@
-	db  60,  40,  80,  40,  60,  45 ; 325 BST
+	db  120,  80,  160,  80,  120,  90 ; 650 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, PSYCHIC ; type
 	db 90 ; catch rate
-	db 98 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, MARANGABERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

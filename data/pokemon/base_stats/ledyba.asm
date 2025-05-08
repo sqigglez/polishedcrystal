@@ -1,9 +1,9 @@
-	db  40,  45,  30,  55,  20,  80 ; 270 BST
+	db  80,  90,  60,  110,  40,  160 ; 540 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, FIGHTING ; type
 	db 255 ; catch rate
-	db 54 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

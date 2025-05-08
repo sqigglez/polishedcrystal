@@ -1,9 +1,9 @@
-	db  80,  30,  50,  110,  30,  50 ; 350 BST
+	db  160,  60,  100,  220,  60,  100 ; 700 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type
 	db 35 ; catch rate
-	db 61 ; base exp
+	db 255 ; base exp
 	db QUICK_POWDER, METAL_POWDER ; held items
 	dn GENDER_UNKNOWN, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

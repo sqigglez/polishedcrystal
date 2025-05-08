@@ -1,9 +1,9 @@
-	db  65,  95,  60,  95,  100,  85 ; 500 BST
+	db  130,  190,  120,  190,  200,  170 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, FIRE ; type
 	db 45 ; catch rate
-	db 167 ; base exp
+	db 255 ; base exp
 	db ASPEAR_BERRY, MAGMARIZER ; held items
 	dn GENDER_F25, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

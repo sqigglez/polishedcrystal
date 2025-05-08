@@ -1,9 +1,9 @@
-	db  80,  100,  70,  110,  60,  80 ; 500 BST
+	db  160,  200,  140,  220,  120,  160 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type
 	db 90 ; catch rate
-	db 116 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, LANSAT_BERRY ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

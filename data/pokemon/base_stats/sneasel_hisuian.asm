@@ -1,9 +1,9 @@
-	db  55,  95,  55,  115,  35,  75 ; 430 BST
+	db  110,  190,  110,  230,  70,  150 ; 860 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, FIGHTING ; type
 	db 60 ; catch rate
-	db 132 ; base exp
+	db 255 ; base exp
 	db GRIP_CLAW, QUICK_CLAW ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

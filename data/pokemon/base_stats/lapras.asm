@@ -1,9 +1,9 @@
-	db  135,  85,  80,  60,  85,  95 ; 540 BST
+	db  255,  165,  160,  115,  165,  190 ; 1050 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, ICE ; type
 	db 45 ; catch rate
-	db 219 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, MYSTIC_WATER ; held items
 	dn GENDER_F50, HATCH_SLOWEST ; gender ratio, step cycles to hatch
 

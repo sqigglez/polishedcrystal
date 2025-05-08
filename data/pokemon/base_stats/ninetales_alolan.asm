@@ -1,9 +1,9 @@
-	db  75,  70,  75,  110,  85,  100 ; 515 BST
+	db  150,  140,  150,  220,  170,  200 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, FAIRY ; type
 	db 75 ; catch rate
-	db 178 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, ASPEAR_BERRY ; held items
 	dn GENDER_F75, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -1,9 +1,9 @@
-	db  20,  25,  45,  60,  70,  90 ; 310 BST
+	db  40,  50,  90,  120,  140,  180 ; 620 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, FAIRY ; type
 	db 145 ; catch rate
-	db 78 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, LEPPA_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

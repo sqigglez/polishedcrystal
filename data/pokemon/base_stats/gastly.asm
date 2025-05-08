@@ -1,9 +1,9 @@
-	db  30,  35,  30,  80,  100,  35 ; 310 BST
+	db  60,  70,  60,  160,  200,  70 ; 620 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GHOST, POISON ; type
 	db 190 ; catch rate
-	db 95 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, SPELL_TAG ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

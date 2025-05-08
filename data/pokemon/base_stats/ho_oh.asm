@@ -1,9 +1,9 @@
-	db  106,  130,  90,  90,  110,  154 ; 680 BST
+	db  212,  255,  180,  180,  220,  255 ; 1302 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, FLYING ; type
 	db 3 ; catch rate
-	db 220 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, SACRED_ASH ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

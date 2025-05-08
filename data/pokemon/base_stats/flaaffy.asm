@@ -1,9 +1,9 @@
-	db  70,  60,  60,  50,  85,  65 ; 390 BST
+	db  140,  120,  120,  100,  170,  130 ; 780 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type
 	db 110 ; catch rate
-	db 127 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -1,9 +1,9 @@
-	db  35,  46,  34,  20,  35,  45 ; 215 BST
+	db  70,  95,  70,  40,  70,  90 ; 435 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type
 	db 255 ; catch rate
-	db 57 ; base exp
+	db 145 ; base exp
 	db NO_ITEM, ORAN_BERRY ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

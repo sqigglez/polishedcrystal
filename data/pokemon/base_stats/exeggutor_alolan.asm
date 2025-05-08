@@ -1,9 +1,9 @@
-	db  95,  105,  85,  45,  125,  75 ; 530 BST
+	db  190,  210,  170,  90,  250,  150 ; 1060 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, DRAGON ; type
 	db 45 ; catch rate
-	db 212 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, SITRUS_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -1,9 +1,9 @@
-	db  30,  5,  255,  5,  5,  255 ; 555 BST
+	db  255,  45,  255,  45,  45,  255 ; 900 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, ROCK ; type
 	db 190 ; catch rate
-	db 80 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, BERRY_JUICE ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

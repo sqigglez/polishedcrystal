@@ -1,9 +1,9 @@
-	db  35,  70,  55,  25,  45,  55 ; 285 BST
+	db  70,  140,  110,  50,  90,  110 ; 570 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db BUG, GRASS ; type
 	db 190 ; catch rate
-	db 70 ; base exp
+	db 255 ; base exp
 	db TINYMUSHROOM, BIG_MUSHROOM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

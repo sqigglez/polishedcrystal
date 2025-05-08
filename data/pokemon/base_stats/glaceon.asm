@@ -1,9 +1,9 @@
-	db  65,  60,  110,  65,  130,  95 ; 525 BST
+	db  130,  120,  220,  130,  255,  190 ; 1045 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, ICE ; type
 	db 45 ; catch rate
-	db 196 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F12_5, HATCH_SLOWER ; gender ratio, step cycles to hatch
 

@@ -1,9 +1,9 @@
-	db  20,  40,  15,  60,  35,  35 ; 205 BST
+	db  40,  80,  30,  120,  70,  70 ; 410 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type
 	db 190 ; catch rate
-	db 42 ; base exp
+	db 136 ; base exp
 	db ORAN_BERRY, LIGHT_BALL ; held items
 	dn GENDER_F50, HATCH_FASTER ; gender ratio, step cycles to hatch
 

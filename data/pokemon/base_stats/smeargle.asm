@@ -1,4 +1,4 @@
-	db  125,  20,  60,  140,  20,  60 ; 425 BST
+	db  255,  40,  120,  255,  40,  120 ; 830 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, FAIRY ; type

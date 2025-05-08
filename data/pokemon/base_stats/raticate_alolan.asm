@@ -1,9 +1,9 @@
-	db  100,  90,  75,  100,  50,  85 ; 500 BST
+	db  200,  180,  150,  200,  100,  170 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db DARK, NORMAL ; type
 	db 90 ; catch rate
-	db 116 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, PECHA_BERRY ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

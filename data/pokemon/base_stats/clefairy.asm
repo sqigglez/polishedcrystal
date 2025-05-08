@@ -1,9 +1,9 @@
-	db  70,  45,  50,  35,  60,  65 ; 325 BST
+	db  140,  90,  100,  70,  120,  130 ; 650 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FAIRY, FAIRY ; type
 	db 150 ; catch rate
-	db 68 ; base exp
+	db 255 ; base exp
 	db LEPPA_BERRY, MOON_STONE ; held items
 	dn GENDER_F75, HATCH_FASTER ; gender ratio, step cycles to hatch
 

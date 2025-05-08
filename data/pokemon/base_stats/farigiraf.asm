@@ -1,9 +1,9 @@
-	db  120,  90,  70,  70,  120,  70 ; 540 BST
+	db  240,  180,  140,  140,  240,  140 ; 1080 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db PSYCHIC, DARK ; type
 	db 45 ; catch rate
-	db 189 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, PERSIM_BERRY ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

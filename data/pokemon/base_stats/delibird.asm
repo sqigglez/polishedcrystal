@@ -1,9 +1,9 @@
-	db  65,  95,  65,  115,  110,  65 ; 515 BST
+	db  120,  190,  120,  230,  220,  120 ; 1000 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, FLYING ; type
 	db 35 ; catch rate
-	db 193 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NEVERMELTICE ; held items
 	dn GENDER_F50, HATCH_FAST ; gender ratio, step cycles to hatch
 

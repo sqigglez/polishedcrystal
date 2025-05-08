@@ -1,9 +1,9 @@
-	db  115,  115,  85,  100,  90,  75 ; 580 BST
+	db  230,  230,  170,  200,  180,  150 ; 1160 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, FIRE ; type
 	db 3 ; catch rate
-	db 217 ; base exp
+	db 255 ; base exp
 	db ALWAYS_ITEM_2, CHARCOAL ; held items
 	dn GENDER_UNKNOWN, HATCH_UNKNOWN ; gender ratio, step cycles to hatch
 

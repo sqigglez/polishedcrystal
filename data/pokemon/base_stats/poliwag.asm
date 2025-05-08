@@ -1,9 +1,9 @@
-	db  40,  50,  40,  90,  40,  40 ; 300 BST
+	db  80,  100,  80,  180,  80,  80 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, WATER ; type
 	db 255 ; catch rate
-	db 77 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

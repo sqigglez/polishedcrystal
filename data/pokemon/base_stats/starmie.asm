@@ -1,9 +1,9 @@
-	db  60,  75,  85,  115,  100,  85 ; 520 BST
+	db  120,  150,  170,  230,  200,  170 ; 1040 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db WATER, PSYCHIC ; type
 	db 60 ; catch rate
-	db 207 ; base exp
+	db 255 ; base exp
 	db STARDUST, STAR_PIECE ; held items
 	dn GENDER_UNKNOWN, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

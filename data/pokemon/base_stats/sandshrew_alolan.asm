@@ -1,9 +1,9 @@
-	db  50,  75,  90,  40,  10,  35 ; 300 BST
+	db  100,  150,  180,  80,  20,  70 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, STEEL ; type
 	db 255 ; catch rate
-	db 93 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, GRIP_CLAW ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

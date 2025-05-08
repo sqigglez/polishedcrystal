@@ -1,9 +1,9 @@
-	db  75,  110,  80,  90,  70,  90 ; 515 BST
+	db  150,  220,  160,  180,  140,  180 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db DARK, POISON ; type
 	db 90 ; catch rate
-	db 147 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, POISON_BARB ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

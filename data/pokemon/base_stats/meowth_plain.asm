@@ -1,9 +1,9 @@
-	db  40,  45,  35,  90,  40,  40 ; 290 BST
+	db  80,  90,  70,  180,  80,  80 ; 580 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type
 	db 255 ; catch rate
-	db 69 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, AMULET_COIN ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

@@ -1,9 +1,9 @@
-	db  35,  35,  35,  35,  35,  35 ; 210 BST
+	db  70,  70,  70,  70,  70,  70 ; 420 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIGHTING, FIGHTING ; type
 	db 75 ; catch rate
-	db 91 ; base exp
+	db 140 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F0, HATCH_MEDIUM_SLOW ; gender ratio, step cycles to hatch
 

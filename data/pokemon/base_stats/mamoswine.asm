@@ -1,9 +1,9 @@
-	db  110,  130,  85,  80,  70,  60 ; 535 BST
+	db  230,  255,  175,  165,  145,  130 ; 1100 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ICE, GROUND ; type
 	db 50 ; catch rate
-	db 207 ; base exp
+	db 255 ; base exp
 	db RAWST_BERRY, NEVERMELTICE ; held items
 	dn GENDER_F50, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 

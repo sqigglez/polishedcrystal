@@ -1,9 +1,9 @@
-	db  85,  80,  90,  60,  105,  95 ; 515 BST
+	db  170,  160,  180,  120,  210,  190 ; 1030 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db NORMAL, NORMAL ; type
 	db 45 ; catch rate
-	db 180 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, UPGRADE ; held items
 	dn GENDER_UNKNOWN, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 
